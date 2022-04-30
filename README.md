@@ -1,4 +1,4 @@
-java-mini-project
+
 it is a internship project given by nucleus software after the core java module.
 it's landing managment system where we can apply home/car/education loan from different bank.
 Here,after registration customer id generated,using that customer id we can apply for loan. 
