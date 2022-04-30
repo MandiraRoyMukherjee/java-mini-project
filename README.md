@@ -1,4 +1,4 @@
-LANDING MANAGMENT SYSTEM
+LENDING MANAGeMENT SYSTEM
 
 
 it is a internship project given by nucleus software after the core java module.
