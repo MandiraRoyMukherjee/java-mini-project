@@ -14,13 +14,4 @@ For run this project 1st install jdk and maven in your system after selecting th
 
 
 
- System.out.println("\n\t\t\t  **-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**\n");
-
-        System.out.println("\n\t\t\t        =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
-        System.out.println("\n\t\t\t        =                 WELCOME                   =");
-        System.out.println("\n\t\t\t        =                   TO                      =");
-        System.out.println("\n\t\t\t        =                 LENDING                  =");
-        System.out.println("\n\t\t\t        =               MANAGEMENT                  =");
-        System.out.println("\n\t\t\t        =                 SYSTEM                    =");
-        System.out.println("\n\t\t\t        =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
-        System.out.println("\n\t\t\t  **-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**\n");
+ 
